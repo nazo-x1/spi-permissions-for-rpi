@@ -1,4 +1,4 @@
-# 获取树莓派 Ubuntu Server spi 权限
+# 树莓派 Ubuntu Server 启用 spi 权限
 
 > 设备: 树莓派 3b+
 >
