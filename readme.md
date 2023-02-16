@@ -1,4 +1,4 @@
-# 树莓派 Ubuntu Server 系统下启用 spi 用户组
+# 树莓派 Ubuntu Server 系统下启用 spi 用户组，以支持 spi 屏幕设备树
 
 > 设备: 树莓派 3b+
 >
