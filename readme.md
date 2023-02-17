@@ -1,4 +1,4 @@
-# 树莓派 Ubuntu Server 系统下启用 spi 用户组，以支持 spi 屏幕设备树
+# 树莓派 Ubuntu Server 系统下启用 spi 用户组,实现用户使用 spi 相关 GPIO
 
 > 设备: 树莓派 3b+
 >
@@ -6,7 +6,7 @@
 >
 > 内核: Linux raspberrypi 5.4.0-1059-raspi #67-Ubuntu SMP PREEMPT aarch64 GNU/Linux
 >
-> 环境: python3
+> 环境: python3 + luma spi 库
 >
 
 ## 权限获取
